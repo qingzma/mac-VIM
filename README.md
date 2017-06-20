@@ -1,5 +1,5 @@
 # mac-VIM
-This is the vim .vimrc configuration for python IDE.
+This is the vim /textif{.vimrc} configuration for python IDE.
 
 
 

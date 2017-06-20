@@ -13,7 +13,7 @@ pip install dbgp pep8 flake8 pyflakes isort.
 
 Shortcuts:
 
-F2 task:
+F2: task window
 
 F3: NERDTree
 
@@ -29,6 +29,6 @@ F9: run the code
 
 
 
-## Reference
+### Reference
 1. https://github.com/tao12345666333/vim
 2. https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/

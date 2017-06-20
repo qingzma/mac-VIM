@@ -6,12 +6,12 @@ This is the vim .vimrc configuration for python IDE.
 
 For mac, need several dependencies: 
 
-pip install dbgp pep8 flake8 pyflakes isort\\
+pip install dbgp pep8 flake8 pyflakes isort//
 
 
 
 
-\\shortcuts:
+//shortcuts:
 
 F2 task:
 
